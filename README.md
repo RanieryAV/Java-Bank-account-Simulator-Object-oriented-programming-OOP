@@ -30,3 +30,5 @@
 			int limite;
 			descontar(double multa);
 			tipoConta();
+
+#### OBS. 2: Este projeto foi feito somente para fins de aprendizado de programação e não pode ser vendido nem comercializado.
